@@ -49,10 +49,6 @@ I aspire to:
 Feel free to connect with me:
 - **Email**: [hyperinfinity@proton.me](mailto:hyperinfinity@proton.me)
 
----
-
-This version includes the progress update on HyperInfinity, making your GitHub intro more current and engaging.
-
 <!---
 maybeshivanshgupta/maybeshivanshgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
