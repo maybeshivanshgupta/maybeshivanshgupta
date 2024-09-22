@@ -15,8 +15,8 @@ A groundbreaking WiFi solution leveraging existing 5G infrastructure to deliver 
 A revolutionary OS based on Arch Linux, designed to optimize performance and resource management:
 - **HyperInfinity Linux**: Full-featured edition with native Windows app support and user-friendly drivers.
 - **HyperInfinity Lite**: A lightweight version for low-end systems, offering:
-  - 44% better RAM management
-  - 62% better disk management
+  - 44% better RAM management comepared to Windows 11
+  - 62% better disk management compared to Windows 11
   - 65% better CPU management compared to Windows 11
 - **HyperBook Concept**: An affordable laptop under $100 featuring 128GB of EMMC storage, 4GB of RAM, and an ARM-based processor, all running on HyperInfinity Lite for maximum efficiency at low cost.
 - **Progress Update**: HyperInfinity OS is almost complete, and test releases may start soon, bringing us closer to a public launch.
